@@ -3,3 +3,4 @@ aprendendo a utilizar o Github
 instalação de programas, como: kolourpaint, kazam, audacity, VLC, guvcview, wps e vsc no mint.
 instalação dos navegadores chrome, opera e edge no mint.
 instalação de progrmas no ambiente grafiço e terminal.
+como executar arquivos .imageapp no mint por terminal e ambiente grafico.
