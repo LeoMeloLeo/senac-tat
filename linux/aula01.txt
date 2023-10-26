@@ -1,4 +1,5 @@
-dia 23/10/2023 ás 22:04
+AULA 01 - 23/10/2023 ás 22:04
+
 aprendendo a utilizar o Github
 instalação de programas, como: kolourpaint, kazam, audacity, VLC, guvcview, wps e vsc no mint.
 instalação dos navegadores chrome, opera e edge no mint.
