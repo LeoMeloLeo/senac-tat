@@ -30,3 +30,149 @@ rm = remover arquivos ou diretórios
 -f = forçar
 -v = verboso
 -R = recursivo
+
+History:
+1  sudo
+    2  /usr/bin/hollywood 
+    3  ip
+    4  apt
+    5  sudo ip
+    6  sudo
+    7  sudo iphelp
+    8  clear
+    9  sudo apt
+   10  clear
+   11  sudo apt
+   12  sudo iphelp
+   13  clear
+   14  sudo apt update
+   15  sudo apt up
+   16  sudo apt update
+   17  sudo apt upgrade
+   18  sudo apt full-upgrade 
+   19  sudo apt dist-upgrade 
+   20  sudo apt autoremove 
+   21  sudo apt autoclean
+   22  sudo apt autoremove 
+   23  sudo apt clean
+   24  clear
+   25  sudo apt clean
+   26  sudo apt update
+   27  clean
+   28  clear
+   29  history
+   30  sudo apt update
+   31  sudo apt upgrade
+   32  sudo apt install
+   33  sudo apt install hollywood 
+   34  hollywood 
+   35  sudo poweroff 
+   36  sudo apt update
+   37  sudo apt upgrade
+   38  sudo apt update
+   39  sudo apt upgrade
+   40  sudo apt update
+   41  sudo apt install git vim python2 python3
+   42  sudo apt update
+   43  sudo apt upgrade
+   44  chmod u+x arquivo.appimage
+   45  sudo apt chmod u+x arquivo.appimage
+   46  sudo apt ./archive.appimage
+   47  sudo apt appimage
+   48  /home/leonemelo/Área de Trabalho/Wallpapers/Tux.png
+   49  sudo apt update
+   50  sudo apt upgrade
+   51  sudo apt upgrade all
+   52  id
+   53  whoami
+   54  id
+   55  whoami
+   56  sudo -i
+   57  id
+   58  whoami
+   59  ls
+   60  ls -lh
+   61  ls -a
+   62  ls -lh
+   63  ls -la
+   64  ls -lha
+   65  ls -la
+   66  ls -lacd
+   67  cd
+   68  cd /
+   69  ls
+   70  ls -lh
+   71  pwd
+   72  cd -
+   73  pwd
+   74  cd -
+   75  pwd
+   76  cd -
+   77  cd /
+   78  cd ~
+   79  pwd
+   80  ls
+   81  cd Documentos
+   82  cd /
+   83  pwd
+   84  cd home/leonemelo/Documentos/
+   85  cd /
+   86  pwd
+   87  cd ~/Documentos/
+   88  cd ..
+   89  pwd
+   90  history
+   91  cd home/leonemelo/Documentos/
+   92  cd/home/leonemelo/documentos/
+   93  mkdir senac
+   94  cd /home/leonemelo/Documentos/
+   95  mkdir senac
+   96  ls
+   97  mkdir -v tatuape
+   98  ls
+   99  cd senac/
+  100  mkdir -v Leone Silva Leo Melo Leon
+  101  ls
+  102  mkdir -v SENAC Tatuapé
+  103  ls
+  104  mkdir -v 'SENAC Tatuapé'
+  105  ls -lh
+  106  cd SENAC Tatuapé
+  107  cd 'SENAC Tatuapé'/
+  108  cd . .
+  109  cd ..
+  110  ls -lh
+  111  mkdir -v tat
+  112  cd tat/
+  113  mkdir -v info tst est amd
+  114  ls -lh
+  115  cd ..
+  116  ls -lh
+  117  mkdir -v tat 'info' test' ''
+  118  cd ..
+  119  cd leon/
+  120  ts -lh
+  121  cd Documentos/senac
+  122  ls lh
+  123  ls -lh
+  124  mkdir -v tat 'info' 'tst' 'est' 'amd'
+  125  mkdir -v tat "amd"
+  126  mkdir -v tat
+  127  mkdir -p tat/info/tst/est/amd
+  128  mkdir -p tat/info tat/tst tat/est tat/amd
+  129  mkdir -help
+  130  mkdir help
+  131  mkdir --help
+  132  man mkdir
+  133  rm Leon
+  134  rm Leon/
+  135  rm --help
+  136  rm -f Leon/
+  137  rm -f Leon
+  138  rm -R Leon
+  139  cd 
+  140  /Documentos/senac
+  141  cd Documentos/senac/
+  142  rm -Rfv Leone/ Leo/ Melo/ Silva/
+  143  exit
+  144  history
