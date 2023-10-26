@@ -1,0 +1,32 @@
+AULA 02 - 25/10/2023 ás 21:59
+
+Terminal: Bash / Shell Script
+$ = usuário comum;
+# = super usuário;
+==================================================
+comandos de manipulação de usuário
+ls = listar arquivos de diretórios
+ls - lh
+ls - lha = lista todos os arquivos de forma humana
+cor azul - diretório
+cor branca - arquivo texto
+arquivo inicia com (.) é arquivo oculto
+cd / = mudar de diretórios
+cd - = voltar uma vezz
+cd ~ =voltar diretorio pessoal
+cd .. = des cer um nivel
+azul claro = link simbólico (atalho)
+verde claro (marcatextoverde) = perigo!
+pwd = qual diretório voce está
+history = historico
+! = executar comando da linha de referencia
+mkdir = criar diretórios
+mkdir -v = verboso (forma mais detalhado)
+mkdir -p = parentes (pasta dentro de pasta)
+'nome' = criar diretório com espaço
+--help = ajuda de comandos
+man = manuais (5)
+rm = remover arquivos ou diretórios
+-f = forçar
+-v = verboso
+-R = recursivo
