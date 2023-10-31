@@ -1,0 +1,33 @@
+Terminal - ctrl + alt + T
+cd - mudar de direitorio
+ls - listar arquivos e direitorios
+mkdir - criar direitorios
+pwd - listar o direitorio atual
+rm - remover arquivos ou direitorios
+echo - imprimir na tela (oque vc quiser)
+> - saida (redirecionador)
+< - entrada
+cat - imprime o conteudo do arquivo
+>> - agregar a outro arquivo (adiciona)
+touch - alterar data e hora de arquivo
+(!) se n existir, ele cria
+cat - lista arquivo (inicio ao fim)
+cat -n = numera linhas
+cp - copiar arquivo ou diretório
+cp -v = detalha o processo
+mv - mover arquivo ou direitorio (renomear)
+renomear = mv -v (arquivo) (diretorio) (nome renomeado)
+| - redirecionar a saida de um comando com 
+a entrada de outro comando
+cat - lista arquivo (inicio ao fim)****
+tac - lista arquivo (fim ao inicio)
+less - visualizador de arquivos
+head - lista o inicio do arquivo (cima p/ baixo)
+tail - lista o final do arquivo (baixo p/ cima)
+cat -n /(arquivo) | head -n 200 | tail -n 101 | less 
+(!) ler arquivos especificos
+
+
+
+
+
