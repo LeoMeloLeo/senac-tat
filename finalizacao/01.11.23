@@ -1,0 +1,16 @@
+VIM - editor de texto
+- esc - sair
+- esc + shift + : = comando
+- q = quitar
+- insert button = inserir textos
+- 2X insert button = substituição
+- q + ! = sair sem salvar
+- w = salva cobteudo
+- wq = salva e sai
+- set number = setar numeros
+- dd = apaga a linha toda
+- x = salva e sai forçado
+sudo rm -Rfv */ = apaga o diretorio
+-----------------------------------------
+
+
